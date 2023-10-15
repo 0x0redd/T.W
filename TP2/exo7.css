@@ -1,0 +1,39 @@
+body {
+    margin: 10px;
+    padding: 10px;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid #333;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  
+  tfoot, thead{
+    font-weight: bold;
+    color: white;
+
+  }
+
+  .a{
+    background-color: purple;
+    border: none;
+  }
+  .b{
+    background-color: plum;
+    border: none;
+  }
+  .imageback{
+    background-image : "motif.avif";
+  }

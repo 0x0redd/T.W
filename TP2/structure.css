@@ -1,0 +1,45 @@
+
+
+#topPage {
+    width: 100%;
+    height: 100px;
+    background-color: #00FF00;
+}
+
+.logo {
+    width: 150px;
+    height: 100%;
+    background-color: #000f00;
+    float: left;
+}
+
+.bandeau {
+    width:100%;
+    height:100%;
+    background-color:#000066; 
+}
+
+.menuGauche {
+    width: 200px;
+    height: 100%;
+    background-color: #660000;
+    float: left;
+}
+.centre{
+    width: 100%;
+    height: 100%;
+    background-color: #FF00FF;
+}
+#mainContent {
+    width : 100%; 
+    height: 400px;
+    background-color: #ff0000;
+    float: left; 
+}
+
+#basPage {
+    width: 100%;
+    height:auto;
+    background-color: beige;
+    text-align: center;
+}

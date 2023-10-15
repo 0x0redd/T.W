@@ -1,0 +1,57 @@
+        .td{
+            width: 400px;
+            height: 40px;
+            border-style: groove;
+            text-align: center;
+
+        }
+        .tr{
+            border: 2px solid gray;
+        }
+        .empty{
+            background-color: rgb(237, 237, 188);
+        }
+        .border{
+            border-style: solid ;
+            border-width: 0.5px;
+            border-color: black;
+        }
+        .algorithme{
+            background-color: #fffe72;
+        }
+        .anglais{
+            background-color: #fe996b;
+        }
+        .bd{
+            background-color: #feccfd;
+        }
+        .genielogiciel{
+            background-color: #ff68cc;
+        }
+        .programation{
+            background-color: #9dfc9e;
+        }
+        .res{
+            background-color: #686afb;
+        }
+        .sport{
+            background-color: #3ccb3e;
+        }
+        .sys{
+            background-color: #ce4825;
+        }
+        .technoweb{
+            background-color: darkgreen;
+        }
+        .t{
+            background-color: #cefefe;
+
+        }
+
+        .m{
+            width: 40px;
+            height: 40px;
+        }
+        table {
+            border-collapse: collapse;
+           }

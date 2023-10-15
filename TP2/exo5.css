@@ -1,0 +1,19 @@
+.div1{
+    background-color: #d8dccf;
+    width: 230px;
+    height: 120px;
+    overflow: scroll;
+    float: right;
+    color: gray;
+}
+
+
+.text1{
+    color: blue;
+}
+
+.text2{
+    color: grey;
+    font-style: italic;
+    padding: 0px;
+}

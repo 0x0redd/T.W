@@ -1,0 +1,12 @@
+p::first-letter{
+    font-weight: bold;
+    font-size: 64px;
+    color: red;
+}
+p::first-letter{
+    text-indent:20px;
+}
+p{
+    font-size: 20px;
+    padding-right: 170px;
+}

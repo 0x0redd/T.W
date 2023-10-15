@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+
+.centreimage{
+            display: block;
+            margin: 0 auto;
+            width: 70%;
+} 
+
+.textcenter{
+            text-align: center;
+}
