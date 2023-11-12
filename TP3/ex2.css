@@ -1,0 +1,10 @@
+body{
+    border: solid;
+    width: auto;
+    height: auto
+}
+h1{text-align: center;}
+ul{ list-style-type: square;}
+
+p{
+    padding-inline-start: 10px}

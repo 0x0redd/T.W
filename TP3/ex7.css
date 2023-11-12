@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 50px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+td {
+    width: 50px;
+    height: 50px;
+    border: 2px solid #000;
+    text-align: center;
+    font-size: 18px;
+    background-color: #fff;
+    color: #333;
+}
+
+th {
+    background-color: #3498db;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px;
+}
+
+tr:nth-child(1){background-color: #3300FF;}
+td:nth-child(10n+1){background-color:rgb(255, 230, 0);}
+tr:nth-child(2){background-color:#3333FF;}
+td:nth-child(10n+2){background-color:#7aff33;}
+tr:nth-child(3){background-color: #8bff33;}
+td:nth-child(10n+3){background-color:#ff7733;}
+tr:nth-child(4){background-color:#3399FF;}
+td:nth-child(10n+4){background-color:#33ff63;}
+tr:nth-child(5){background-color: #33CCFF;}
+td:nth-child(10n+5){background-color:#4b33ff;}
+tr:nth-child(6){background-color: #33FFFF;}
+td:nth-child(10n+6){background-color:#33FFFF;}
+tr:nth-child(7){background-color:#00FFFF;}
+td:nth-child(10n+7){background-color:#ff0000;}
+tr:nth-child(8){background-color:#00FFFF;}
+td:nth-child(10n+8){background-color:#ffea00;}
+tr:nth-child(9){background-color: #99FFFF;}
+td:nth-child(10n+9){background-color: #99FFFF;}
+tr:nth-child(10){background-color:#99FFFF;}
+td:nth-child(10n){background-color:rgb(6, 230, 230);}
